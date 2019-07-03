@@ -46,3 +46,15 @@ python codeInjector.py --kod '<h1 style="color:lime;background:#000" align="cent
 * Sadece http protokolü kullanan web sitelerine karşı çalışır.
 
 
+
+### Örnek Gösterim - Sanal Makine üzerinde
+* Hedef bilgisayar -  Windows 8 
+
+
+![1](https://user-images.githubusercontent.com/25087769/60630316-4f5b0880-9e02-11e9-880d-f314f5f6669e.PNG)
+
+<hr>
+
+
+![2](https://user-images.githubusercontent.com/25087769/60630317-4f5b0880-9e02-11e9-982f-06932044dda1.PNG)
+
